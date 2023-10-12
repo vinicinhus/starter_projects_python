@@ -1,4 +1,4 @@
-# README - Starter Projects in Python! 🐍
+# Starter Projects in Python! 🐍
 
 Este repositório contém uma variedade de projetos em Python que cobrem várias áreas e funcionalidades. Cada projeto é uma aplicação independente, e você pode explorá-los para aprender mais sobre programação em Python e desenvolver suas habilidades.
 

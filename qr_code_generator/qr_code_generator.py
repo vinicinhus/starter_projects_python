@@ -1,7 +1,7 @@
 """
 Instale as seguintes bibliotecas, para o código funcionar:
-    pip install qrcode==7.4.2
-    pip install Pillow==10.0.1
+    pip install qrcode == 7.4.2
+    pip install Pillow == 10.0.1
 """
 
 import qrcode

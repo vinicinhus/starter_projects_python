@@ -1,8 +1,3 @@
-"""
-Instale as seguintes bibliotecas, para o código funcionar:
-    pip install requests == 2.31.0
-"""
-
 import os
 
 import requests

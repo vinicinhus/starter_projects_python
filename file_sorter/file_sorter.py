@@ -1,9 +1,3 @@
-"""
-Instale as seguintes bibliotecas, para o código funcionar:
-    pip install customtkinter == 5.2.0
-    pip instaçç CTkMessagebox == 2.5
-"""
-
 import os
 import shutil
 from tkinter import filedialog

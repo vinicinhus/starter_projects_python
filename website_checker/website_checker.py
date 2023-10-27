@@ -1,9 +1,3 @@
-"""
-Instale as seguintes bibliotecas, para o código funcionar:
-    pip install requests == 2.31.0
-    pip install fake_useragent == 1.3.0
-"""
-
 import csv
 from http import HTTPStatus
 

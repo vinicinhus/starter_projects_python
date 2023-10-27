@@ -1,8 +1,3 @@
-"""
-Instale as seguintes bibliotecas, para o código funcionar:
-    pip install customtkinter == 5.2.0
-"""
-
 import customtkinter as ctk
 
 
